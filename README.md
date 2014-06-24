@@ -6,7 +6,7 @@ In order to get instructions for the next part of the challenge, you need to sub
 
 First, perform step 1 of [these instructions](https://help.github.com/articles/fork-a-repo) to fork the repository.
 
-In order to submit a pull request, you must make a modification to your source code. The best way to do that for this exercise is to create a new file with any contents you'd like.
+In order to submit a pull request, you must make a modification to your source code. The best way to do that for this exercise is to create a new file with any contents you'd like. LIKE THIS! HOI HOI HOI 
 
 Once you've created a new file in your fork, you need to obtain an encrypted version of your email address here:
 [Encryption Form](http://vfa-tech-challenge.herokuapp.com/encryption)
